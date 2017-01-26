@@ -24,7 +24,7 @@ import smartwaiver.types
 
 class Smartwaiver():
 
-    _version = '4.0.0'
+    _version = '4.0.1'
 
     def __init__(self, api_key):
         """Creates a new Smartwaiver object.

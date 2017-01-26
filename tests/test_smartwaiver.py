@@ -25,7 +25,7 @@ import smartwaiver
 import factory
 
 headers = {
-    'user-agent': 'SmartwaiverSDK:4.0.0-python:' + python_version(),
+    'user-agent': 'SmartwaiverSDK:4.0.1-python:' + python_version(),
     'sw-api-key': 'TestApiKey'
 }
 
